@@ -1,6 +1,5 @@
 #=====================================================================================
 # Name: Olamide Borishade Daniel
-# NUID: 003153846
 # Project Name: ALY 6010 Milestone 1
 # Date: 03/01/2026
 # Dataset: U.S. Treasury Reporting Rates of Exchange (2001–2025)
